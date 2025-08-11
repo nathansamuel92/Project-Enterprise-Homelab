@@ -60,6 +60,8 @@ This project recreates a full enterprise environment from the ground up, complet
 - Deployed Security Onion (Zeek + Suricata + Kibana)
 - Connected alert sources to the SIEM dashboard
 
+![All machines set up and running](https://i.imgur.com/BahvCou.jpeg)
+
 ---
 
 ## Attack Simulation Flow
@@ -92,7 +94,13 @@ This project recreates a full enterprise environment from the ground up, complet
 
 ---
 
+![Phishing Site](https://i.imgur.com/UTLOtgh.png)
+
+---
+
 ## 🔍 Detection Engineering
+
+![Wazuh Dashboard](https://i.imgur.com/kCthW1V.png)
 
 | Event                          | Detection Rule / Method             |
 |-------------------------------|--------------------------------------|
@@ -103,9 +111,7 @@ This project recreates a full enterprise environment from the ground up, complet
 
 All logs were correlated in both Wazuh and Security Onion. Alerts were confirmed in real-time via dashboards.
 
-
-
-> 📸 *Insert screenshots of alerts, dashboards, attack terminal logs here.*
+![Wazuh Alerts](https://i.imgur.com/H28pDzy.png)
 
 ---
 
@@ -121,16 +127,7 @@ This lab models the full kill chain of a targeted intrusion, from initial access
 - Developed a stronger grasp of how Windows and Linux systems integrate in enterprise networks.
 - Practiced simulating and tracing attacker techniques aligned with the MITRE ATT&CK framework.
 
----
-
-## Figures & Visuals
-
-> Insert:
-> - Network diagram
-> - Attack chain timeline
-> - Wazuh alert samples
-> - Security Onion dashboard panels
-> - s-nail/phishing terminal snapshots
+Please show some love to Grant Collins, the reason this project was possible! Show him some love on YouTube, and stay tuned for his upcoming sequel project, which is a direct continuation of this project, however, focusing on networking and attacks.
 
 ---
 
