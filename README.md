@@ -81,9 +81,9 @@ Stay tuned as there is more to come in the future!
 <br>
 <div align="center">
   <img src="https://i.imgur.com/BahvCou.jpeg" alt="All machines set up and running" width="800">
+  <br></br>
   <p><em>Figure 2 – All lab machines running and connected</em></p>
 </div>
-<br>
 
 ---
 
@@ -115,18 +115,18 @@ Stay tuned as there is more to come in the future!
 <br>
 <div align="center">
   <img src="https://i.imgur.com/8JPWNoF.png" alt="Attack Flow Diagram" width="800">
+  <br></br>
   <p><em>Figure 3 – Attack flow diagram from recon to persistence</em></p>
 </div>
-<br>
 
 ---
 
 <br>
 <div align="center">
   <img src="https://i.imgur.com/UTLOtgh.png" alt="Phishing Site" width="500">
+  <br></br>
   <p><em>Figure 4 – Phishing site hosted on attacker’s machine</em></p>
 </div>
-<br>
 
 ---
 
@@ -135,9 +135,9 @@ Stay tuned as there is more to come in the future!
 <br>
 <div align="center">
   <img src="https://i.imgur.com/kCthW1V.png" alt="Wazuh Dashboard" width="800">
+  <br></br>
   <p><em>Figure 5 – Wazuh dashboard overview showing active alerts</em></p>
 </div>
-<br>
 
 ---
 
@@ -159,9 +159,9 @@ All logs were correlated in both Wazuh and Security Onion. Alerts were confirmed
 <br>
 <div align="center">
   <img src="https://i.imgur.com/H28pDzy.png" alt="Wazuh Alerts" width="800">
+  <br></br>
   <p><em>Figure 6 – Sample Wazuh alerts triggered during attack simulation</em></p>
 </div>
-<br>
 
 ---
 
