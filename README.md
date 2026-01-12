@@ -180,7 +180,7 @@ The project demonstrates how layered defense, log analysis, and SIEM tuning work
 
 ---
 
-Please show some love to Grant Collins, the reason this project was possible! Show him some love on [YouTube](https://www.youtube.com/@collinsinfosec), and stay tuned for his sequel project, which is a direct continuation of this project, focusing on networking and attacks.
+Please show some love to Grant Collins, the reason this project was possible! Show him some love on [YouTube](https://www.youtube.com/@collinsinfosec), and stay tuned for his sequel projects, which is are direct continuation of this project, focusing on networking and attacks.
 
 ---
 
