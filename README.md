@@ -18,7 +18,7 @@ Stay tuned as there is more to come in the future!
 
 <br>
 <div align="center">
-  <img src="https://i.imgur.com/iBxCrUd.png" alt="Network Topology Diagram" width="800">
+  <img src="https://i.imgur.com/tjq6LVn.png" alt="Network Topology Diagram" width="800">
   <br></br>
   <p><em>Figure 1 – Full lab network topology</em></p>
 </div>
@@ -113,7 +113,7 @@ Stay tuned as there is more to come in the future!
 ---
 <br>
 <div align="center">
-  <img src="https://i.imgur.com/8JPWNoF.png" alt="Attack Flow Diagram" width="800">
+  <img src="https://i.imgur.com/t0YTmiL.png" alt="Attack Flow Diagram" width="800">
   <br></br>
   <p><em>Figure 3 – Attack flow diagram from recon to persistence</em></p>
 </div>
