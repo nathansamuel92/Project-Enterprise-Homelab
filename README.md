@@ -1,7 +1,6 @@
-# Enterprise Cybersecurity Homelab (Project X)
+# Enterprise Cybersecurity Homelab
 
 > A hands-on red-vs-blue simulation lab built from scratch using VirtualBox, designed to model how real-world enterprises defend against modern cyber threats.  
-> **NOTE:** This project closely follows the instructions presented in Grant Collin's [Project X](https://www.youtube.com/watch?v=f8SCF2UoT4c&t) labs.
 
 ---
 
